@@ -4,7 +4,7 @@ sum = 0
 sd = 0
 sd_sum = 0
 
-n = int(input("Enter the number of elements "))
+n = int(input("Enter the number of elements: "))
 for i in range(0,n):
    l = int(input())
    x.append(l)

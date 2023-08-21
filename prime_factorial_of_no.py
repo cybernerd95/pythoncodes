@@ -1,4 +1,5 @@
 a = int(input("Enter a positive integer you want prime factors for : "))
+print("1")
 for num in range(2, (a+1) ):
     
     prime = True
@@ -11,5 +12,5 @@ for num in range(2, (a+1) ):
     
     if prime:
         if a % num == 0 :
-            print("1")
+            
             print (num)
