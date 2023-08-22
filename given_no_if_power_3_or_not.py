@@ -10,3 +10,7 @@ while True:
         else:
             print("it is a power")
         break
+     
+
+#You can take log of the number and devide it with log 3 and check it its a integer or not 
+#Another method could be you can take the largest power of 3 that a 64 bit can store and divide it by the input number to check if the remainder is zero
