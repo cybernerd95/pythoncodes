@@ -10,7 +10,7 @@ while(a>=1):
 print(rev_no)
 
 # in form of a list 
-# l=[]
-# for n in str(a):
-#    l.append(int(n))
-# print(l[::-1])
+#  l=[]
+#  for n in str(a):
+#     l.append(int(n))
+#  print(l[::-1])
