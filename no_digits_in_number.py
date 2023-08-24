@@ -18,5 +18,6 @@ print(c)
 # p = b*math.log10(a)
 # print(a, "power", b , " has ", int(p) +1 , "digits")
 
+
 #Another method would be continuously dividing it by 10 with giving a predefined i=0 and then adding +1 for 
 #for everytime the number is divided i=i+1 and until the number is less than 1 and then printni 
