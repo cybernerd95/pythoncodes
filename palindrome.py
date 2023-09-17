@@ -11,5 +11,5 @@ else:
     print("its not a palindrome ")
 
     #the basic algoritm behind the code is adding each letter in the word in their decimal form into a list
-    #Then checking if thr reverse of the list and the original list are both same 
+    #Then checking if the reverse of the list and the original list are both same 
     
