@@ -32,3 +32,5 @@ with open(output_file, 'w') as file:
 
 print(f"Closing curly braces added and saved to {output_file}")
 
+#to read a json file import jason file  use [variable ]= jason.load ((open"Filename"))
+# this [variable becomes a python dictionary ]
